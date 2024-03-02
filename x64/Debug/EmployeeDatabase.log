@@ -1,0 +1,4 @@
+﻿  EmployeeDatabase.cpp
+D:\database\CPP\Visual\EmployeeDatabase\database.h(18,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\database\CPP\Visual\EmployeeDatabase\doubleList.h(236): warning C4715: 'doubleList<int>::valueAt': not all control paths return a value
+  EmployeeDatabase.vcxproj -> D:\database\CPP\Visual\EmployeeDatabase\x64\Debug\EmployeeDatabase.exe
